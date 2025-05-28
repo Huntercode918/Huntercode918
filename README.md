@@ -37,7 +37,7 @@ Participo de bootcamps e cursos em Engenharia de Prompt, Análise de Dados, Mach
 
 ---
 
-### 📊 Dashboard Eco-Futurista de Habilidades
+### 📊 Dashboard de Habilidades
 
 <div align="center">
 
